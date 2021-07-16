@@ -21,6 +21,14 @@ body {
   padding: 0 10px;
 }
 
+.moreOnFigma {
+  text-decoration: none;
+  color: darkgrey;
+  font-size: 11px;
+  position: absolute;
+  top: 0;
+}
+
 .header {
   background: url(../img/bg-header.jpg) #323232;
   background-repeat: no-repeat;
